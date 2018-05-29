@@ -1,0 +1,10 @@
+C:\Users\DMikhalyov\source\repos\NeuralNetwork\NeuralNetwork\obj\Debug\NeuralNetwork.csprojResolveAssemblyReference.cache
+C:\Users\DMikhalyov\source\repos\NeuralNetwork\NeuralNetwork\obj\Debug\NeuralNetwork.MainForm.resources
+C:\Users\DMikhalyov\source\repos\NeuralNetwork\NeuralNetwork\obj\Debug\NeuralNetwork.Properties.Resources.resources
+C:\Users\DMikhalyov\source\repos\NeuralNetwork\NeuralNetwork\obj\Debug\NeuralNetwork.csproj.GenerateResource.Cache
+C:\Users\DMikhalyov\source\repos\NeuralNetwork\NeuralNetwork\obj\Debug\NeuralNetwork.csproj.CoreCompileInputs.cache
+C:\Users\DMikhalyov\source\repos\NeuralNetwork\NeuralNetwork\bin\Debug\NeuralNetwork.exe.config
+C:\Users\DMikhalyov\source\repos\NeuralNetwork\NeuralNetwork\bin\Debug\NeuralNetwork.exe
+C:\Users\DMikhalyov\source\repos\NeuralNetwork\NeuralNetwork\bin\Debug\NeuralNetwork.pdb
+C:\Users\DMikhalyov\source\repos\NeuralNetwork\NeuralNetwork\obj\Debug\NeuralNetwork.exe
+C:\Users\DMikhalyov\source\repos\NeuralNetwork\NeuralNetwork\obj\Debug\NeuralNetwork.pdb
